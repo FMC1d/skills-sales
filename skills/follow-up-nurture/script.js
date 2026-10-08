@@ -15,12 +15,10 @@ const FOLLOW_UP_RULES = {
 };
 
 const SIGNATURES = [
-  "engineer",
-  "engineer M.",
-  "FM",
-  "engineer Martinez",
-  "engineer | AgenticEcosystem",
-  "-F",
+  "Alex",
+  "Alex M.",
+  "Alex Morgan",
+  "- Alex",
 ];
 
 const TEMPLATES = {

@@ -179,6 +179,3 @@ found three quick wins that could boost your reply rates.
 
 Is it cool if I send it over? No call required.
 ```
-
-Material fuente completo (con todos los ejemplos PASS/FAIL y el correo rechazado):
-`Z:\AgenticEcosystem\Agentic Systems\01_writing_room\outreach\2026-08-07-ingesta-reglas-copy-engineer.md`

@@ -91,12 +91,10 @@ Variante 2: "Hey {nombre}, como va todo? Estuve pensando en lo que hablamos sobr
 
 ## Firmas Variables
 ```
-- engineer
-- engineer M.
-- FM
-- engineer Martinez
-- engineer | AgenticEcosystem
-- -F
+- Alex
+- Alex M.
+- Alex Morgan
+- - Alex
 ```
 
 ## Formato de Salida
